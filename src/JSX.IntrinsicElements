@@ -1,0 +1,22 @@
+import React from 'react';
+
+// Define the interface for custom JSX elements
+declare global {
+  namespace JSX {
+    interface IntrinsicElements {
+      'custom-element': React.DetailedHTMLProps<React.HTMLAttributes<HTMLElement>, HTMLElement>;
+      // Add definitions for other custom elements used in your code
+    }
+  }
+}
+
+// Your component
+const MyComponent = () => {
+  return (
+    <div>
+      <custom-element>Hello, world!</custom-element>
+    </div>
+  );
+}
+
+export default MyComponent;

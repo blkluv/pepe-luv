@@ -35,44 +35,24 @@ export const NavOptions = () => {
       ],
     },
     {
-      name: 'Farm',
-      alt: 'Farm',
-      subpage: [
-        {
-          url: 'https://crunchy.network/#/farms?q=Pepe',
-          name: 'Crunchy',
-          alt: 'Crunchy Network',
-        },
-        {
-          url: 'https://matterdefi.xyz/#/?live=30',
-          name: 'Matter',
-          alt: 'Matter Farms',
-        },
-      ],
-    },
-    {
       name: 'Buy',
       alt: 'Buy',
       subpage: [
         {
-          url: 'https://crunchy.network/#/swap?from=tez&to=KT1MZg99PxMDEENwB4Fi64xkqAVh5d1rv8Z9_0',
-          name: 'Crunchy',
-          alt: 'Crunchy Network',
+          url: 'https://luvnft.com/pepeluv',
+          name: 'Pepe LUV',
+          alt: 'Mint $LUV',
         },
+      ],
+    },
+    {
+      name: 'NFTs',
+      alt: 'NFTs',
+      subpage: [
         {
-          url: 'https://spicyswap.xyz/#/swap?tokenLeft=xtz&tokenRight=KT1MZg99PxMDEENwB4Fi64xkqAVh5d1rv8Z9:0',
-          name: 'SpicySwap',
-          alt: 'SpicySwap',
-        },
-        {
-          url: 'https://3route.io/swap/xtz/pepe',
-          name: '3Route',
-          alt: '3Route',
-        },
-        {
-          url: 'https://app.plenty.network/swap?from=XTZ&to=PEPE',
-          name: 'Plenty',
-          alt: 'Plenty Network',
+          url: 'https://luvnft.com',
+          name: 'LUV NFT',
+          alt: 'LUV NFT',
         },
       ],
     },
