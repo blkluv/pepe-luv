@@ -9,7 +9,6 @@ import {
 
 export const SplashCTA = () => {
   return (
-    <div>
       <CTA>
         <CTAHeader>PEPE without the Gas Fees</CTAHeader>
         <CTADescription>
@@ -45,10 +44,9 @@ export const SplashCTA = () => {
               A gambling-for-good lottery game where users bet $LUV to win a 
               pot of $LUV. On each bet, 20% of your $LUV is burned, 40% is 
               added to the pot, and 40% goes to the tribe reserves. #8️⃣8️⃣8️⃣🐸💜
-            </span>
-          </CTAProductCard>
-        </CTAClick>
-      </CTA>
-      );
-};
-    
+              </span>
+        </CTAProductCard>
+      </CTAClick>
+    </CTA>
+  );
+}; 
