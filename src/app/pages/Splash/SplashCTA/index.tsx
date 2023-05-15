@@ -25,25 +25,26 @@ export const SplashCTA = () => {
           </span>
         </CTADescription>
         <CTAClick>
-          <CTAProductCard href="https://nft.tezospepe.com/" target="_blank">
-            <span>🐸 Mint PepeLUV $LUV</span>
+          <CTAProductCard href="https://luvnft.com/" target="_blank">
+            <span>🐸💜 Spend $LUV on LUV NFT 6/6/23</span>
             <span>
-              Mint PepeLUV $LUV token with no gas fees on the Polygon network.
-              Join our "Purpose over profit" movement to spread LUV.
+            NFT platform powered by $LUV Users can buy and sell NFTs using $LUV. 
+            1% of each donation is sent to the DAO treasury. #SpreadPepeLUV
             </span>
           </CTAProductCard>
-          <CTAProductCard href="https://pot.tezospepe.com/swap" target="_blank">
-            <span>🐸 PepeLUV AR Filter</span>
+          <CTAProductCard href="https://luvnft.com" target="_blank">
+            <span>🐸💜 LUV Swap Meet 7/7/23</span>
             <span>
-              PepeLUV has a TikTok AR filter called "Purple LUV Eyes".
-              Use our LUV NFT filter, tag @LUVNFT to win $LUV.
+            LUVswapmeet is a DEX that allows users to see trades,charts 
+            and liquidity in one interface. The blockchain swap meet.🐸💜🔄
             </span>
           </CTAProductCard>
-          <CTAProductCard href="https://pot.tezospepe.com/" target="_blank">
-            <span>🐸 PepeLUV ID</span>
+          <CTAProductCard href="https://luvnft.com/" target="_blank">
+            <span>🐸💜 LUV Casino 8/8/23</span>
             <span>
-              Support the PepeLUV movement by holding and having a PepeLUV
-              NFT ID in your social media avatar to market the movement.
+            A gambling for good lottery game where users bet $LUV to win a 
+            pot of $LUV. On each bet, 20% of your $LUV is burned, 40% is 
+            added to the pot. and 40% goes to the tribe reserves. #8️⃣8️⃣8️⃣🐸💜
             </span>
           </CTAProductCard>
         </CTAClick>
