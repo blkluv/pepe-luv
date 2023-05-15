@@ -16,36 +16,42 @@ export const SplashCTA = () => {
           thousand pictures!
         </span>
         <span>
-          Tezos Pepe is no different - Pepes may look alike, but no two Pepes
-          are the same! With Tezos Pepe, tezonians can have fun building,
-          trading, playing, memeing, and using the DAO treasury to fund other
-          projects.
+          PepeLUV is a higher frequency of Pepe movemnt on Poygon blockchain
+          with the mission of solving real world problems with our meme coin
+          profits. We're creating spiritual wealth by spreading LUV. 
+          "IN LUV WE TRUST"
         </span>
       </CTADescription>
       <CTAClick>
         <CTAProductCard href="https://nft.tezospepe.com/" target="_blank">
-          <span>🐸 pepe et nunc</span>
+          <span>🐸 Mint PepeLUV $LUV</span>
           <span>
-            NFT platform powered by $PEPE. Users can buy and sell NFTs using
-            $PEPE. 1% of each sell is sent to the DAO Treasury
+            Mint PepeLUV $LUV token with no gas fees on Polygon network.
+            Join our "Purpose over profit" movement to spread LUV.
           </span>
         </CTAProductCard>
         <CTAProductCard href="https://pot.tezospepe.com/swap" target="_blank">
-          <span>🐸 PepeSwap</span>
+          <span>🐸 PepeLUV AR Filter</span>
           <span>
-            PepeSwap is a DEX front end that utilizes Spicyswap backend. It
-            allows users to see trades, charts and liquidity in one interface.
+            PepeLUV has a TikTok AR filter called "Purple LUV Eyes"
+            Use our LUV NFT fiter, tag @LUVNFT to win $LUV.
           </span>
         </CTAProductCard>
         <CTAProductCard href="https://pot.tezospepe.com/" target="_blank">
-          <span>🐸 PepePot</span>
+          <span>🐸 PepeLUV ID</span>
           <span>
-            A lottery game where users bet $PEPE to win a pot of $PEPE. On each
-            bet, 20% of your $PEPE is burned, 40% is added to the pot, and 40%
-            goes to house reserves.
+            Support the PepeLUV movement by holding and having a PepeLUV
+            NFT ID in your social media avatar to market the movement.
           </span>
         </CTAProductCard>
       </CTAClick>
     </CTA>
+    <iframe
+    src="https://ipfs.thirdwebcdn.com/ipfs/QmfK9mw9eQKE9vCbtZht9kygpkNWffdwibsJPnCo7MBN4M/erc20.html?contract=0x16C9810bBEa6CCDFf74a2E79144032090A80EE81&chain=%7B%22name%22%3A%22Polygon+Mainnet%22%2C%22chain%22%3A%22Polygon%22%2C%22rpc%22%3A%5B%22https%3A%2F%2Fpolygon.rpc.thirdweb.com%2F5a9bc94b87f7cbbbfbbc234bf1e07f0adf5f3cf3012c9f26f9fc9820d64df93a%22%5D%2C%22nativeCurrency%22%3A%7B%22name%22%3A%22MATIC%22%2C%22symbol%22%3A%22MATIC%22%2C%22decimals%22%3A18%7D%2C%22shortName%22%3A%22matic%22%2C%22chainId%22%3A137%2C%22testnet%22%3Afalse%2C%22slug%22%3A%22polygon%22%7D&theme=dark"
+    width="600px"
+    height="600px"
+    style="max-width:100%;"
+    frameborder="0"
+    ></iframe>
   );
 };

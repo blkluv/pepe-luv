@@ -18,17 +18,17 @@ export const NavOptions = () => {
       alt: 'Socials',
       subpage: [
         {
-          url: 'https://twitter.com/TezosPepe',
+          url: 'https://twitter.com/luvnft',
           name: 'Twitter',
           alt: 'Twitter',
         },
         {
-          url: 'https://t.me/TezosPepe',
+          url: 'https://t.me/PepeLUV',
           name: 'Telegram',
           alt: 'Telegram',
         },
         {
-          url: 'https://discord.com/invite/hVp4EP86PJ',
+          url: 'https://discord.gg/Sp9fubxqgf',
           name: 'Discord',
           alt: 'Discord',
         },
