@@ -12,8 +12,8 @@ export const SplashCTA = () => {
         <CTAHeader>PEPE without the Gas Fees</CTAHeader>
         <CTADescription>
           <span>
-            If a picture is worth a thousand words, then a meme is worth a
-            thousand pictures!
+            Spread $LUV to those in need IRL and we promise you that you will be 
+            spiritually wealthy. Manifest more $LUV in your life and tag @luvnft.
           </span>
           <span>
             PepeLUV is a higher frequency of Pepe movement on the Polygon blockchain
@@ -24,17 +24,17 @@ export const SplashCTA = () => {
         </CTADescription>
         <CTAClick>
           <CTAProductCard href="https://luvnft.com/" target="_blank">
-            <span>🐸💜 Spend $LUV on LUV NFT 6/6/23</span>
+            <span>🐸💜 Spend $LUV 6/6/23</span>
             <span>
               NFT platform powered by $LUV. Users can buy and sell NFTs using $LUV. 
               1% of each donation is sent to the DAO treasury. #SpreadPepeLUV
             </span>
           </CTAProductCard>
           <CTAProductCard href="https://luvnft.com" target="_blank">
-            <span>🐸💜 LUV Swap Meet 7/7/23</span>
+            <span>🐸💜 LUV Swap 7/7/23</span>
             <span>
               LUVswapmeet is a DEX that allows users to see trades, charts, 
-              and liquidity in one interface. The blockchain swap meet. 🐸💜🔄
+              and liquidity in one interface. The blockchain swap meet. #🐸💜🔄
             </span>
           </CTAProductCard>
           <CTAProductCard href="https://luvnft.com/" target="_blank">

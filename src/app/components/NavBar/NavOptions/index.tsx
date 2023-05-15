@@ -57,9 +57,9 @@ export const NavOptions = () => {
       ],
     },
     {
-      url: 'https://tezos-homebase.io/explorer/dao/KT1LyPqdRVBFdQvhjyybG5osRCXnGSrk15M5/overview',
-      name: 'DAO',
-      alt: 'DAO',
+      url: 'https://www.tiktok.com/t/ZTRKs3XeL/',
+      name: 'AR',
+      alt: 'AR',
     },
   ];
 
