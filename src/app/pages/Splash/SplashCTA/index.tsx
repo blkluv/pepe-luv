@@ -1,4 +1,3 @@
-import React from 'react';
 import {
   CTA,
   CTAClick,
@@ -9,7 +8,7 @@ import {
 
 export const SplashCTA = () => {
   return (
-      <CTA>
+    <CTA>
         <CTAHeader>PEPE without the Gas Fees</CTAHeader>
         <CTADescription>
           <span>
@@ -49,4 +48,4 @@ export const SplashCTA = () => {
       </CTAClick>
     </CTA>
   );
-}; 
+};
