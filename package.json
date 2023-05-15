@@ -1,9 +1,9 @@
 {
-  "name": "tezos-pepe",
+  "name": "polygon-pepe",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://tezospepe.com/",
+  "homepage": "https://pepe.luvnft.com/",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",

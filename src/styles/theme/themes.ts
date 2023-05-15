@@ -22,8 +22,8 @@ const tezosTheme: Theme = {
   primary: 'rgba(0, 60, 161, 1)',
   text: 'rgba(252,255,255,1)',
   textSecondary: 'rgba(252,253,252,1)',
-  background: 'rgba(4, 97, 254, 1)',
-  backgroundVariant: 'rgba(255, 255, 255, 1)',
+  background: 'rgba(148, 53, 247, 1)', // converted from 9435F7
+  backgroundVariant: 'rgba(148, 53, 247, 1)', // converted from 9435F7
   border: 'rgba(241,233,231,0.15)',
   borderLight: 'rgba(241,233,231,0.05)',
 };
