@@ -26,7 +26,7 @@ export const SplashCTA = () => {
           <CTAProductCard href="https://luvnft.com/" target="_blank">
             <span>🐸💜 Spend $LUV 6/6/23</span>
             <span>
-              NFT platform powered by $LUV. Users can buy and sell NFTs using $LUV. 
+              LUV NFT platform powered by $LUV. Users can buy and sell NFTs using $LUV. 
               1% of each donation is sent to the DAO treasury. #SpreadPepeLUV
             </span>
           </CTAProductCard>
