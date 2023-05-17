@@ -9,40 +9,48 @@ import {
 export const SplashCTA = () => {
   return (
     <CTA>
-        <CTAHeader>PEPE without the Gas Fees</CTAHeader>
+        <CTAHeader>$LUV IS THE NEW MONEY</CTAHeader>
         <CTADescription>
           <span>
-            Spread $LUV to those in need IRL and we promise you that you will be 
-            spiritually wealthy. Manifest more $LUV in your life and tag @luvnft.
+            Pepe is $LUV, operating on the Polygon blockchain, without gas 
+            fees. We invite you to join our mission to educate our tribe on 
+            generating spiritual wealth from within, a process that ultimately 
+            manifests into tangible wealth. Share $LUV and the universe will 
+            reciprocate with tenfold blessings.
           </span>
           <span>
-            PepeLUV is a higher frequency of Pepe movement on the Polygon blockchain
-            with the mission of solving real-world problems with our meme coin
-            profits. We're creating spiritual wealth by spreading LUV. 
-            "IN LUV WE TRUST"
+            Money is energy, and our tribe is committed to attracting similar 
+            vibrations that prioritize 'Purpose over Profit.' Pepe $LUV is 
+            intended for those who wish to address real-world problems and 
+            propel humanity forward. 
+            'IN LUV WE TRUST.
           </span>
         </CTADescription>
         <CTAClick>
           <CTAProductCard href="https://luvnft.com/" target="_blank">
-            <span>🐸💜 Spend $LUV 6/6/23</span>
+            <span>🐸💜 SPEND $LUV IRL 6/6/23</span>
             <span>
-              LUV NFT platform powered by $LUV. Users can buy and sell NFTs using $LUV. 
-              1% of each donation is sent to the DAO treasury. #SpreadPepeLUV
+              The LUV NFT platform is powered by $LUV, facilitating users to 
+              buy and sell NFTs using $LUV as a medium. In our forthcoming 
+              customized map, you'll be able to locate businesses worldwide 
+              that accept $LUV.
             </span>
           </CTAProductCard>
           <CTAProductCard href="https://luvnft.com" target="_blank">
-            <span>🐸💜 LUV Swap 7/7/23</span>
+            <span>🐸💜 .LUV DOMAINS 7/7/23</span>
             <span>
-              LUVswapmeet is a DEX that allows users to see trades, charts, 
-              and liquidity in one interface. The blockchain swap meet. #🐸💜🔄
+            Own a .LUV domain on the Polygon blockchain, eligible for use 
+            as a verified username in LUV NFT 5D-commerce. Donate your $LUV 
+            to claim your new higher-self name. IAM.LUV
             </span>
           </CTAProductCard>
           <CTAProductCard href="https://luvnft.com/" target="_blank">
-            <span>🐸💜 LUV Casino 8/8/23</span>
+            <span>🐸💜 RENT $LUV 8/8/23</span>
             <span>
-              A gambling-for-good lottery game where users bet $LUV to win a 
-              pot of $LUV. On each bet, 20% of your $LUV is burned, 40% is 
-              added to the pot, and 40% goes to the tribe reserves. #8️⃣8️⃣8️⃣🐸💜
+            Connect with LNElords who accept $LUV as a solution to the housing 
+            crisis. Lease your Airbnb or vacant property with a LUV NFT to 
+            eliminate unnecessary fees, accepting $LUV as your preferred method 
+            of payment.
               </span>
         </CTAProductCard>
       </CTAClick>
