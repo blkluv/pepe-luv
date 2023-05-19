@@ -18,9 +18,9 @@ export const NavOptions = () => {
       alt: 'Socials',
       subpage: [
         {
-          url: 'https://twitter.com/luvnft',
-          name: 'Twitter',
-          alt: 'Twitter',
+          url: 'https://tiktok.com/@luvispepe',
+          name: 'TikTok',
+          alt: 'TikTok',
         },
         {
           url: 'https://t.me/PepeLUV',
