@@ -43,6 +43,11 @@ export const NavOptions = () => {
           name: 'Pepe LUV',
           alt: 'Mint $LUV',
         },
+        {
+          url: 'https://pitch.com/public/da5f4313-0acb-4448-8729-5c34e86d11f5',
+          name: 'White Paper',
+          alt: 'White Paper',
+        },
       ],
     },
     {

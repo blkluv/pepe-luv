@@ -28,7 +28,7 @@ export const SplashCTA = () => {
         </CTADescription>
         <CTAClick>
           <CTAProductCard href="https://luvnft.com/" target="_blank">
-            <span>🐸💜 SPEND $LUV IRL 6/6/23</span>
+            <span>🐸💜 SPEND $LUV 6/6/23</span>
             <span>
               The LUV NFT platform is powered by $LUV, facilitating users to 
               buy and sell NFTs using $LUV as a medium. In our forthcoming 
@@ -37,7 +37,7 @@ export const SplashCTA = () => {
             </span>
           </CTAProductCard>
           <CTAProductCard href="https://luvnft.com" target="_blank">
-            <span>🐸💜 .LUV DOMAINS 7/7/23</span>
+            <span>🐸💜 .LUV NAME 7/7/23</span>
             <span>
             Own a .LUV domain on the Polygon blockchain, eligible for use 
             as a verified username in LUV NFT 5D-commerce. Donate your $LUV 
