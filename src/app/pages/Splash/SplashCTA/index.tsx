@@ -22,7 +22,7 @@ export const SplashCTA = () => {
             Money is energy, and our tribe is committed to attracting similar 
             vibrations that prioritize 'Purpose over Profit.' Pepe $LUV is 
             intended for those who wish to address real-world problems and 
-            propel humanity forward. <br>
+            propel humanity forward. 
             <br>IN LUV WE TRUST.</br>
           </span>
         </CTADescription>
