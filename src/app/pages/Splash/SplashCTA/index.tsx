@@ -23,7 +23,8 @@ export const SplashCTA = () => {
             vibrations that prioritize 'Purpose over Profit.' Pepe $LUV is 
             intended for those who wish to address real-world problems and 
             propel humanity forward. 
-            <br>"IN LUV WE TRUST" 
+            
+            "IN LUV WE TRUST" 
           </span>
         </CTADescription>
         <CTAClick>
