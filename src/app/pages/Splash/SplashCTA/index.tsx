@@ -40,8 +40,8 @@ export const SplashCTA = () => {
             <span>🐸💜 .LUV NAME 7/7/23</span>
             <span>
             Own a .LUV domain on the Polygon blockchain, eligible for use 
-            as a verified username in LUV NFT 5D-commerce. Donate your $LUV 
-            to claim your new higher-self name. IAM.LUV
+            as a verified username on LUV NFT 5D-commerce market. Donate your 
+            $LUV to claim your new higher-self name. IAM.LUV
             </span>
           </CTAProductCard>
           <CTAProductCard href="https://luvnft.com/" target="_blank">
