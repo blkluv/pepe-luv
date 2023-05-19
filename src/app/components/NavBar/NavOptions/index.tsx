@@ -39,7 +39,7 @@ export const NavOptions = () => {
       alt: 'Buy',
       subpage: [
         {
-          url: 'https://luvnft.com/pepeisluv',
+          url: 'https://luvnft.com/pepeluv',
           name: 'Pepe LUV',
           alt: 'Mint $LUV',
         },
